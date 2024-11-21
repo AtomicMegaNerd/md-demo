@@ -2,18 +2,18 @@
 
 Let's cover the following items using Markdown:
 
-- [ ] Introduction to Markdown
-- [ ] Headings
-- [ ] Bold and italics
-- [ ] Unordered lists
-- [ ] Ordered lists
-- [ ] Pre-formatted text
-- [ ] Code snippets
-- [ ] Quote blocks
-- [ ] Images
-- [ ] Hyperlinks
-- [ ] Tables
-- [ ] Markdown tooling
-  - [ ] VS Code
-  - [ ] CLI
-  - [ ] Obsidian
+- [x] Introduction to Markdown
+- [x] Headings
+- [x] Bold and italics
+- [x] Unordered lists
+- [x] Ordered lists
+- [x] Pre-formatted text
+- [x] Code snippets
+- [x] Quote blocks
+- [x] Images
+- [x] Hyperlinks
+- [x] Tables
+- [x] Markdown tooling
+  - [x] VS Code
+  - [x] CLI
+  - [x] Obsidian
